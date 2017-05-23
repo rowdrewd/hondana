@@ -47,7 +47,7 @@ void loop() {
   // then we print to screen what is in the Quotation marks ""
   // arduboy.print(F("aaa"));
 
-  arduboy.drawRect(5,5,118,54);
+  arduboy.drawRect(5,5,119,55);
 //  arduboy.drawLine(10,5,118,59);
 //  arduboy.fillRect(64,5,54,18);
 //  arduboy.fillCircle(28,41,18);
